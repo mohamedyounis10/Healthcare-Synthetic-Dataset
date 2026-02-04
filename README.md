@@ -122,7 +122,7 @@ To run the notebook, you’ll typically need:
 - `matplotlib`, `seaborn`
 - `scikit-learn`
 
-> If you want, I can add a `requirements.txt` automatically based on the notebook imports.
+---
 
 ### Run the Notebook ▶️
 
@@ -163,5 +163,6 @@ File: `docs/header.html`
 
 Add a license that matches how you want others to use your work (e.g., MIT).
 If you tell me your preference, I can add the `LICENSE` file too.
+
 
 

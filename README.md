@@ -23,6 +23,8 @@ This repository contains a small **healthcare analytics** project using a **synt
   - [Run the Notebook](#run-the-notebook-)
 - [Notes & Limitations](#notes--limitations-)
 - [HTML Header Template](#html-header-template-)
+- [Author](#author-)
+- [Acknowledgments](#acknowledgments-)
 - [License](#license-)
 
 ---
@@ -31,14 +33,29 @@ This repository contains a small **healthcare analytics** project using a **synt
 
 > Click any item to jump to its section.
 
-- [`Dataset/`](#dataset)
+- [`Dataset/`](#dataset-)
   - `healthcare_dataset.csv`
-- [`Dashboard/`](#power-bi-dashboard)
+- [`Dashboard/`](#power-bi-dashboard-)
   - `Healthcare.pbix`
   - `doctors.png`
   - `istockphoto.png`
-- [`notebook.ipynb`](#notebook)
-- [`docs/header.html`](#html-header-template)
+- [`notebook.ipynb`](#notebook-)
+- [`docs/header.html`](#html-header-template-)
+
+Or as a tree:
+
+```text
+Healthcare/
+├─ Dataset/
+│  └─ healthcare_dataset.csv
+├─ Dashboard/
+│  ├─ Healthcare.pbix
+│  ├─ doctors.png
+│  └─ istockphoto.png
+├─ docs/
+│  └─ header.html
+└─ notebook.ipynb
+```
 
 ---
 
@@ -99,6 +116,11 @@ Folder: `Dashboard/`
 
 Open the `.pbix` file using **Power BI Desktop**.
 
+What you can do with the dashboard:
+- 📌 Explore key distributions (e.g., demographics, admission types, medical conditions)
+- 💳 Review billing/insurance breakdowns
+- 🔎 Slice & filter visuals for quick insights
+
 ---
 
 ## Getting Started 🚀
@@ -133,6 +155,21 @@ File: `docs/header.html`
 
 - A simple, reusable **HTML header** (brand + navigation) with clean CSS.
 - You can use it in a static website or GitHub Pages.
+
+---
+
+## Author ✍️
+
+- Name: **(add your name here)**
+- GitHub: **(add your GitHub profile here)**
+
+---
+
+## Acknowledgments 🙏
+
+- 📊 Dataset: Synthetic dataset used for learning/experimentation
+- 🧰 Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
+- 💡 Power BI: Microsoft Power BI Desktop
 
 ---
 

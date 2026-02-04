@@ -31,19 +31,6 @@ This repository contains a small **healthcare analytics** project using a **synt
 
 ## Project Structure 🗂️
 
-> Click any item to jump to its section.
-
-- [`Dataset/`](#dataset-)
-  - `healthcare_dataset.csv`
-- [`Dashboard/`](#power-bi-dashboard-)
-  - `Healthcare.pbix`
-  - `doctors.png`
-  - `istockphoto.png`
-- [`notebook.ipynb`](#notebook-)
-- [`docs/header.html`](#html-header-template-)
-
-Or as a tree:
-
 ```text
 Healthcare/
 ├─ Dataset/
@@ -120,6 +107,8 @@ What you can do with the dashboard:
 - 📌 Explore key distributions (e.g., demographics, admission types, medical conditions)
 - 💳 Review billing/insurance breakdowns
 - 🔎 Slice & filter visuals for quick insights
+  
+<img width="1290" height="724" alt="Screenshot 2026-02-04 090056" src="https://github.com/user-attachments/assets/de569998-d27e-4f53-b611-bf77179efd11" />
 
 ---
 
@@ -160,16 +149,13 @@ File: `docs/header.html`
 
 ## Author ✍️
 
-- Name: **(add your name here)**
-- GitHub: **(add your GitHub profile here)**
+- Name: **Mohamed Younis**
 
 ---
 
 ## Acknowledgments 🙏
 
-- 📊 Dataset: Synthetic dataset used for learning/experimentation
-- 🧰 Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
-- 💡 Power BI: Microsoft Power BI Desktop
+- **Internship 🏢**: [Uneeq Interns](https://www.linkedin.com/company/uneeq-interns/)
 
 ---
 
@@ -177,4 +163,5 @@ File: `docs/header.html`
 
 Add a license that matches how you want others to use your work (e.g., MIT).
 If you tell me your preference, I can add the `LICENSE` file too.
+
 
